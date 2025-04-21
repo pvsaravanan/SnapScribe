@@ -23,7 +23,7 @@ SnapScribe is a modern, AI-powered web application that allows users to upload i
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/SnapScribe.git
+git clone https://github.com/pvsaravanan/SnapScribe.git
 cd SnapScribe
 npm install
 npm run dev
