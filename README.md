@@ -3,7 +3,7 @@
 SnapScribe is a modern, AI-powered web application that allows users to upload images and extract meaningful text using OCR technology. It features a sleek, responsive UI built with Vite, TypeScript, and Tailwind CSS.
 
 ## 🌐 Live Project
-🔗 [SnapScribe]()
+🔗 [SnapScribe](https://snapscribe-captioner.vercel.app/)
 
 ## 🚀 Features
 
